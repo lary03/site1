@@ -1,3 +1,13 @@
 body{
     background-color: rgb(212, 55, 97);
 }
+nav{
+    background-color: lightcoral;
+    padding: 15px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    nav .logo a{text-decoration: none;}
+    color: moccasin;
+    font-size: 35px;
+    font-weight: 600;
