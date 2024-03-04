@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(212, 55, 97);
+    background-color: rgba(115, 0, 108, 0.265);
 }
 nav{
-    background-color: lightcoral;
+    background-color: rgb(235, 118, 241);
     padding: 15px 50px;
     display: flex;
     justify-content: space-between;
